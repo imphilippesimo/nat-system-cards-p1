@@ -1,4 +1,4 @@
-package com.natsystem.cards;
+package com.natsystems.cards;
 
 import static org.junit.Assert.assertTrue;
 
